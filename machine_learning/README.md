@@ -1,2 +1,2 @@
-# MachineLearning_AndrewNg
-吴恩达老师的《机器学习》课程作业，python实现。
+# MachineLearning Stanford U
+Python implementation for HWs
